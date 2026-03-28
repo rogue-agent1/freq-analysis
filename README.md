@@ -1,7 +1,13 @@
-# freq-analysis
-Character, word, and bigram frequency analysis. Zero dependencies.
+# freq_analysis
+
+Frequency analysis — letter/bigram/trigram counts for cryptanalysis
+
 ## Usage
+
+```bash
+python3 freq_analysis.py --help
 ```
-cat book.txt | python3 freq_analysis.py words 30
-python3 freq_analysis.py chars < message.txt
-```
+
+## License
+
+MIT
