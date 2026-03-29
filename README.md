@@ -1,13 +1,9 @@
-# freq_analysis
+# freq-analysis
 
-Frequency analysis — letter/bigram/trigram counts for cryptanalysis
+Character frequency analysis for cryptanalysis. Zero-dependency, single-file Python CLI.
 
 ## Usage
 
 ```bash
 python3 freq_analysis.py --help
 ```
-
-## License
-
-MIT
